@@ -6,7 +6,7 @@
 
 ## 🚀 What I’m Up To
 - Currently learning **Java** ☕ and messing around with **Linux & GitHub**
-- Big fan of **Minecraft** 🧱 — sometimes I take survival too seriously
+- Big fan of **Minecraft** — sometimes I take survival too seriously
 - Experimenting with **IoT projects** using **NodeMCU**
 - Slowly building my way into **Arduino & C++**
 
@@ -26,7 +26,8 @@ I joined GitHub to:
 - I dual boot Ubuntu & Windows — pain? sometimes. worth it? yes.
 
 ## 🌐 Let’s Connect
-- GitHub: [@MrW041](https://github.com/MrW041)  
+- GitHub: [@MrW041](https://github.com/MrW041)
+- Instagram: [@waiz](https://www.instagram.com/waiz_41/)
 *(Feel free to drop a star or say hi!)*
 
 ---
