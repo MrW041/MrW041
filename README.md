@@ -26,7 +26,7 @@ I joined GitHub to:
 - I dual boot Ubuntu & Windows — pain? sometimes. worth it? yes.
 
 ## 🌐 Let’s Connect
-- Linkedin: [Waiz_Mirza] (https://www.linkedin.com/in/waiz-mirza-mrw041/)
+- Linkedin: [Waiz_Mirza](https://www.linkedin.com/in/waiz-mirza-mrw041/)
 - Instagram: [@waiz_41](https://www.instagram.com/waiz_41/)
 - Reddit: [u/MrW041](https://www.reddit.com/user/MrW041/)
 ---
