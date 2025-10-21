@@ -31,4 +31,4 @@ I joined GitHub to:
 - Reddit: [u/MrW041](https://www.reddit.com/user/MrW041/)
 ---
 
-Thanks for stopping by! 🚀
+Thanks for stopping by!
